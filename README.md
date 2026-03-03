@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -24,3 +25,7 @@ Summary of Your Stack
 If someone asks you "What is your tech stack?", you can say:
 
 "It is a React 19 application built with Vite and TypeScript, using Firebase for the backend. We are using Recharts for data visualization and Lucide for icons."
+=======
+# LifeSourceWorshipManagementSystem
+LifeSourceWorshipManagementSystem, updates
+>>>>>>> d6b1405ef3a142a7c023f12ebdb34c0291a485ad
